@@ -69,10 +69,6 @@ When you partner with us, you're choosing a team that is dedicated to delivering
 - Innovation and Adaptability: We embrace new technologies and trends to deliver cutting-edge solutions for our clients.
 - Open-Source Advocacy: We believe in the power of open-source and actively contribute to the community, benefiting both our clients and the industry as a whole.
 
-## Team
-
-Our team is composed of talented and experienced professionals, including developers, designers, and project managers. We collaborate closely to deliver top-notch solutions tailored to our clients' needs.
-
 ## Meet Our Team
 Our team is composed of talented and experienced professionals, including developers, project managers, and business analysts. We collaborate closely to deliver top-notch solutions tailored to our clients' needs, ensuring that every aspect of a project is carefully considered and expertly executed.
 
