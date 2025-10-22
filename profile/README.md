@@ -4,3 +4,5 @@ Let us strive toward a simple first, highly aligned, loosely coupled culture. Si
 
 Fail early, fail fast, iterate!   
 Not every mistake is a foolish mistake. -- cicero or sumthin
+
+DRY3X, YAGNI
